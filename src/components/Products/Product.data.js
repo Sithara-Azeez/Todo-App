@@ -1,0 +1,42 @@
+export const phonesData = [
+    {
+        id:1,
+        model: 'Apple I Phone',
+        desc: 'Apple iphone 13 Pro 256GB',
+        price: 80000,
+        image: '1',
+        qty: 1,
+    },
+    {
+        id:2,
+        model: 'Huwaei y70',
+        desc: 'Huwaie nove y70 128GB',
+        price: 30000,
+        image: '2',
+        qty: 1,
+    },
+    {
+        id:3,
+        model: 'Nokia G11',
+        desc: 'Nokia G11 Android 64GB',
+        price: 20000,
+        image: '3',
+        qty: 1,
+    },
+    {
+        id:4,
+        model: 'redmi 10C',
+        desc: 'Xiaomi redmi 10C 4G 128GB',
+        price: 22000,
+        image: '4',
+        qty: 1,
+    },
+    {
+        id:5,
+        model: 'Samsung S21',
+        desc: 'Samsung Galaxy S21 Ultra 5G',
+        price: 60000,
+        image: '5',
+        qty: 1,
+    },
+]
